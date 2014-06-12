@@ -9,4 +9,7 @@ elements:
  - name: Twenty Questions
    uri: twentyqs
    local: true
+ - name: Command Line Tricks
+   uri: CLI
+   local: true
 ---
