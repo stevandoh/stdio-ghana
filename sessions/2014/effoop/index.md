@@ -8,6 +8,7 @@ instructors:
 
 <section markdown="block">
 ###Why Use Objects?
+
 <aside class="notes" markdown="block">
 QA with students; I'd say the gist of it is that thinking with objects lets one
 *do* software engineering.  Goal of this session would be to have the students
@@ -57,6 +58,7 @@ for objects.
 
 <section markdown="block">
 ###Self Documenting Code
+
 <aside class="notes" markdown="block">
 Objects are a means of saying these things go together.
 
@@ -66,17 +68,20 @@ the code speak more to what it's doing.
 </section>
 
 <section markdown="block">
-##OPP Danger Zone
+#OPP Danger Zone
 </section>
 
 <section markdown="block">
-##Too Much Magic
+##Too Much Magic & YAGNI
 
 <aside class="notes" markdown="block">
 When things are too abstracted to be able to figure out what's going on where.
 
 Hard to debug problems -- often because interpreter reports errors in strange
 places.
+
+End up doing unnecessary work - unnecessary work means more opportunity for
+real error.
 </aside>
 </section>
 
