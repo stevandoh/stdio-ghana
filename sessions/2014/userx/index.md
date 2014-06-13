@@ -25,22 +25,23 @@ No interface:
 - Click program icon
 
 - Type name, press ENTER
+
 </section>
 
 <section markdown="block">
 Command line interface (CLI):
 
 - Arguments passed after program name
-
--- ls -lh
--- tar -czvvf my_new_tar_file.tgz ./*
+  - `ls -lh`
+  - `tar -czvvf my_new_tar_file.tgz ./*`
 
 - Interactive UI
--- fdisk
+  - `fdisk`
 
 - Special cases:
--- servers
--- supercomputers
+  - servers
+  - supercomputers
+
 </section>
 
 <section markdown="block">
@@ -50,15 +51,17 @@ What makes CLI software easy/hard to use?
 
 <section markdown="block">
 Graphical user interface (GUI):
+
 - Common operating systems
--- Windows, OS X, Gnome/KDE/XFCE for linux
+  - Windows, OS X, Gnome/KDE/XFCE for linux
 - Most commercial or consumer-targeted software
--- Office
--- Photoshop
--- Firefox
+  - Office
+  - Photoshop
+  - Firefox
 - Special cases:
--- Websites
--- Touch screens
+  - Websites
+  - Touch screens
+
 </section>
 
 <section markdown="block">
@@ -74,53 +77,67 @@ Should complex software have a complex interface?
 <section markdown="block">
 Creating simple interfaces for complex software is hard!
 Broad principles:
+
 - Know your users and what they know
 - Exploit familiar interface patterns
 - Exploit psychology and culture
+
 </section>
 
 <section markdown="block">
 Know your users.  Are they:
+
 - Kids or adults
 - One time or long term users
 - Novices or experienced programmers
+
 </section>
 
 <section markdown="block">
 Know your users (cont.)
+
 - Make common things easy
 - Create basic/advanced alternative interfaces [Examples?]
 - Create customizable interfaces [Examples?]
+
 </section>
 
 <section markdown="block">
 Exploit familiar interface patterns
+
 - What does flipping a switch do?
 - What does turning a dial do?
 - Swiping? Ctrl + V? Clicking an 'X'?
 [What are some more examples of ingrained controls?]
+
 </section>
 
 <section markdown="block">
 Exploit familiar interface patterns (cont.)
+
 - Command line tools: reuse familiar flags!
 [Find some CL tools, compare the flags and their meanings.]
+
 </section>
 
 <section markdown="block">
 Exploit psychology and culture
+
 - If you step into an unfamiliar room, where do you look first for the light switch?
 - How do you choose whether to push or pull a door?
 - If something is flashing red, what does that mean? Other colors?
+
 </section>
 
 <section markdown="block">
 Exploit psychology (cont.)
+
 - Put things where people will naturally look for them
--- Controls near the thing they control
+  - Controls near the thing they control
 - Group related things
 - Hide confusing/misleading options
 - Use good documentation/pop up messages to target subtle or misleading controls
+
 </section>
 
 <section markdown="block">
@@ -131,4 +148,13 @@ Having excessive documentation for things that are obvious or unnecessary for th
 <section markdown="block">
 When you don't know how to make something better, find some guinea pigs!
 Ask *them* what they expect to happen when they use your software.
+</section>
+
+<section markdown="block">
+
+- `python -m http.server 8000`
+- [Curses Textbox](curses_textbox.py)
+- [Curses Dungeon Creator](curses_dungeon_maker.py)
+- [TKinter Nibbles](tkinterNibbles.py)
+
 </section>
