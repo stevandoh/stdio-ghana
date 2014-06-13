@@ -149,3 +149,12 @@ Having excessive documentation for things that are obvious or unnecessary for th
 When you don't know how to make something better, find some guinea pigs!
 Ask *them* what they expect to happen when they use your software.
 </section>
+
+<section markdown="block">
+
+- `python -m http.server 8000`
+- [Curses Textbox](curses_textbox.py)
+- [Curses Dungeon Creator](curses_dungeon_maker.py)
+- [TKinter Nibbles](tkinterNibbles.py)
+
+</section>
