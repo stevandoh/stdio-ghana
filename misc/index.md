@@ -38,7 +38,7 @@ have played before:
      - [Settlers of Catan](http://www.catan.com/)
      - [Pandemic](http://zmangames.com/product-details.php?id=1246)
 
-##Weekend Trip Follow-up
+##Weekend Trip Details
 
 We toured [Cape Coast Castle](http://www.capecoastcastlemuseum.com/1.html),
 and then meet with the Operations Officer and students a tour of the
