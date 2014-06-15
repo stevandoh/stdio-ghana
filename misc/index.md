@@ -36,3 +36,14 @@ have played before:
      - [Innovation](http://www.asmadigames.com/detail_innovation.php) (including Echoes and Figures Expansions)
      - [Set](http://www.setgame.com/sites/default/files/instructions/SET%20INSTRUCTIONS%20-%20ENGLISH%208.23.11.pdf)
      - [Settlers of Catan](http://www.catan.com/)
+     - [Pandemic](http://zmangames.com/product-details.php?id=1246)
+
+##Weekend Trip Follow-up
+
+We toured [Cape Coast Castle](http://www.capecoastcastlemuseum.com/1.html),
+and then meet with the Operations Officer and students a tour of the
+[AIMS Ghana](http://www.aims.edu.gh/) facility.
+
+For STDIO Ghana students interested in AIMS, the
+[application site is here](http://www.nexteinstein.org/), though applications
+for the 2014-2015 year are already closed.  Keep it in mind for 2015-2016!
